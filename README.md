@@ -64,5 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Catalina Crunch is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.hiive.com/securities/catalina-crunch-stock
+Catalina Crunch creates high‑protein, low‑sugar snacks and cereals, founded by a Type 1 diabetic to fill a market gap for nutritious, low‑sugar options. The brand now offers a broad portfolio of snacks, cereals, granola, and chocolate bars, emphasizing protein and fiber while minimizing sugar, and provides online shopping, subscriptions, and retail locations across the US.
+
+**Areas:** Company · Snacks · Food · Health · E-Commerce · Nutrition
+
+## Catalina Crunch on APIs.io
+
+Everything profiled for Catalina Crunch is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/catalina-crunch/](https://apis.io/providers/catalina-crunch/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Catalina Crunch GraphQL API](https://apis.io/apis/catalina-crunch/catalina-crunch-graphql-api/) — GraphQL API providing access to Catalina Crunch e‑commerce data such as products, collections, and checkout.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Catalina Crunch Domain Security](https://apis.io/security/catalina-crunch/catalina-crunch-domain-security/)
+- [Catalina Crunch Vulnerability Disclosure](https://apis.io/security/catalina-crunch/catalina-crunch-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://us.catalinacrunch.com/)
+- [Documentation](https://us.catalinacrunch.com/pages/about-us)
+- [Support](https://us.catalinacrunch.com/pages/contact)
+- [Security](https://clarity.com/vdp)
+- [Terms of service](https://us.catalinacrunch.com/pages/terms-of-service)
+- [Privacy policy](https://us.catalinacrunch.com/pages/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 34.2 |
+
+**Agent readiness 4.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+
+**Regulatory alignment 15.6** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/catalina-crunch/](https://apis.io/providers/catalina-crunch/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Catalina Crunch: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/catalina-crunch/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
